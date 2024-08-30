@@ -9,10 +9,10 @@ from datetime import datetime
 vision_url = "https://vision.googleapis.com/v1/images:annotate"
 
 # Google Cloud Vision API 키
-vision_api_key = "AIzaSyCEv0_bOGZu2g7y9vAN-tibfGOMaJWO__c"  # 여기에 실제 API 키를 입력하세요
+vision_api_key = ""  # 여기에 실제 API 키를 입력하세요
 
 # OpenAI API 키 설정
-openai.api_key = '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'  # 여기에 실제 OpenAI API 키를 입력하세요
+openai.api_key = ''  # 여기에 실제 OpenAI API 키를 입력하세요
 
 # 이미지 파일 경로
 image_path = r'D:\2024신한해커톤\영수증 처리 프로젝트\test\example.jpg'
