@@ -87,11 +87,11 @@
 
    5-1. 빈그릇 챌린지
 
-   <img src="AI/Learning/food/Visualizaion/output_BeforeImg.png" width="300" height="300">
+   <img src="Learning/food/Visualizaion/output_BeforeImg.png" width="300" height="300">
 
    5-2. 홈트 챌린지
 
-   <img src="AI/Learning/work/Visualizaion/output_passImg.png" width="300" height="300">
+   <img src="Learning/work/Visualizaion/output_passImg.png" width="300" height="300">
 
 7. 배포
 
