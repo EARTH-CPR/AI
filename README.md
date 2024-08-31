@@ -69,5 +69,16 @@
    
     <img src="readmeImg/work_result.png">
     
+5. 시각화
+
+   5-1. 빈그릇 챌린지
+
+   <img src="AI/Learning/food/Visualizaion/output_BeforeImg.png" width="300" height="300">
+
+   5-2. 홈트 챌린지
+
+   <img src="AI/Learning/work/Visualizaion/output_passImg.png" width="300" height="300">
 
 6. 배포
+
+   - Flask를 사용해서 model 및 .py 코드 배포.
