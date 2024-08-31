@@ -96,3 +96,4 @@
 7. 배포
 
    - Flask를 사용해서 model 및 .py 코드 배포.
+  ```flask —app earthcpr-ai.py run —host=0.0.0.0 &```
