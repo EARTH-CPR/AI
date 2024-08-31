@@ -40,22 +40,33 @@
 
 4. 테스트
     4-1. 영수증 처리
+   
     input
+   
     <img src="readmeImg/receipt_input.jpg" width="300" height="300">
+    
     output
+   
     <img src="readmeImg/receipt_result.png">
 
     4-2. 빈그릇 챌린지
+   
     input
+   
     <img src="readmeImg/food_input.jpg" width="300" height="300">
 
     output ( 0-0.5 : 다먹음, 0.5-1 : 덜먹음 )
+   
     <img src="readmeImg/food_result.png">
 
     4-3. 홈트 챌린지
+   
     input
+   
     <img src="readmeImg/work_input.jpg" width="300" height="300">
+    
     output ( 0-0.5 : 틀린자세, 0.5-1 : 바른자세 )
+   
     <img src="readmeImg/work_result.png">
     
 
